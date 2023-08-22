@@ -1,13 +1,13 @@
 import type { AppInfo } from '@/types/app'
 export const APP_ID = 'd298547f-97f2-46f7-95b8-e820f0fc03a3'
 export const API_KEY = 'd298547f-97f2-46f7-95b8-e820f0fc03a3'
-export const API_URL = 'https://api.dify.ai/v1'
+export const API_URL = ''
 export const APP_INFO: AppInfo = {
   title: 'Chat APP',
   description: '',
   copyright: '',
   privacy_policy: '',
-  default_language: 'zh-Hans',
+  default_language: 'en',
 }
 
 export const isShowPrompt = false
