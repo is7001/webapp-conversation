@@ -6,8 +6,8 @@ import Welcome from '../welcome'
 const ConfigSence: FC<IWelcomeProps> = (props) => {
   return (
     <div className='mb-5 antialiased font-sans overflow-hidden shrink-0'>
-    // 이 부분이 나중에 중국어로 출력되는 부분
-      // <Welcome {...props} />
+    /* 이 부분이 나중에 중국어로 출력되는 부분
+      <Welcome {...props} /> */
     </div>
   )
 }
